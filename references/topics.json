@@ -1,0 +1,45 @@
+{
+  "days": 3,
+  "max_results_per_topic": 40,
+  "topics": [
+    {
+      "name": "计算机视觉前沿",
+      "categories": ["cs.CV"],
+      "keywords": []
+    },
+    {
+      "name": "水产 + 计算机视觉",
+      "categories": ["cs.CV", "eess.IV", "cs.LG"],
+      "keywords": [
+        "aquaculture",
+        "fish",
+        "fishery",
+        "fisheries",
+        "shrimp",
+        "salmon",
+        "shellfish",
+        "crab",
+        "aquatic",
+        "underwater"
+      ]
+    },
+    {
+      "name": "医学 + 计算机视觉",
+      "categories": ["cs.CV", "eess.IV"],
+      "keywords": [
+        "medical image",
+        "medical imaging",
+        "radiology",
+        "histopathology",
+        "pathology",
+        "CT",
+        "MRI",
+        "X-ray",
+        "ultrasound",
+        "endoscopy",
+        "lesion",
+        "tumor"
+      ]
+    }
+  ]
+}
